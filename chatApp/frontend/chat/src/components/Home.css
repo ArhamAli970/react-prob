@@ -1,0 +1,12 @@
+.card{
+    background-color: lightcoral;
+
+}
+.parCard{
+    display: flex;
+    flex-direction: column;
+}
+
+p{
+    color:black;
+}
